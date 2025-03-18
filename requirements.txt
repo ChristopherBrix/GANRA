@@ -1,0 +1,7 @@
+torch==2.5.1
+PySMT==0.9.6
+z3==0.2.0
+pytorch-optimizer==3.3.4
+tqdm==4.67.1
+z3-solver==4.14.0.0
+gmpy2==2.2.1
